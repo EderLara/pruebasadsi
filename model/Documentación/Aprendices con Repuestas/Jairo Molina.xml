@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Ankh</LastAuthor>
+  <LastSaved>2017-10-26T19:59:56Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>3855</WindowHeight>
+  <WindowWidth>10215</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Table1!R1C1:R1C5"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="57" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="110.25" ss:Span="3"/>
+   <Row>
+    <Cell><Data ss:Type="String">fechquiz</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">IdEstudiante</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">nombre</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">ficha</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Final</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000294777</Data></Cell>
+    <Cell><Data ss:Type="String">KEVIN SNEIDER CEFERINO CALLE</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000393733</Data></Cell>
+    <Cell><Data ss:Type="String">LUISA FERNANDA LONDOÑO ZAPATA</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000439636</Data></Cell>
+    <Cell><Data ss:Type="String">JULIAN CARVAJAL GUZMAN</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000445132</Data></Cell>
+    <Cell><Data ss:Type="String">EVELIN JIMENEZ MEDINA</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000564429</Data></Cell>
+    <Cell><Data ss:Type="String">SARA PAULINA ROJAS ROJAS</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000885639</Data></Cell>
+    <Cell><Data ss:Type="String">NATALY DURAN MONTOYA</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1000889176</Data></Cell>
+    <Cell><Data ss:Type="String">HILLARY DAHIANNA ASPRILLA GIL</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1001137744</Data></Cell>
+    <Cell><Data ss:Type="String">LEIDI DAIANA GIL ZULETA</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1002061543</Data></Cell>
+    <Cell><Data ss:Type="String">YOJAN ZULETA CARVAJAL</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1007746580</Data></Cell>
+    <Cell><Data ss:Type="String">ANDRES FELIPE IDARRAGA VELEZ</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1017268615</Data></Cell>
+    <Cell><Data ss:Type="String">KATHERIN DUQUE GUISAO</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1036220386</Data></Cell>
+    <Cell><Data ss:Type="String">AURA CRISTINA PULGARIN FRANCO</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">1193147597</Data></Cell>
+    <Cell><Data ss:Type="String">ESTEFANIA TOBON TORRES</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-24</Data></Cell>
+    <Cell><Data ss:Type="String">99051607828</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN ESTEBAN CORTES CIFUENTES</Data></Cell>
+    <Cell><Data ss:Type="String">1153207</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1000443885</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN PABLO ZAPATA ZULETA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1000531966</Data></Cell>
+    <Cell><Data ss:Type="String">KAREN CASTAÑO PEREZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1000639851</Data></Cell>
+    <Cell><Data ss:Type="String">YERMY ANDRÉS SOTELO PARRA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1000644176</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN CAMILO FERNANDEZ PATIÑO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1000659294</Data></Cell>
+    <Cell><Data ss:Type="String">JAIDER ANDRES RAMIREZ LOAIZA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1000902689</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN DIEGO MIRA MORENO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1001011099</Data></Cell>
+    <Cell><Data ss:Type="String">JENNIFER ELIZABETH GONZALEZ TEJADA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1001017349</Data></Cell>
+    <Cell><Data ss:Type="String">LAURA VASQUEZ BERRIO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1001133282</Data></Cell>
+    <Cell><Data ss:Type="String">CHRISTIAN DANIEL LIBREROS ORTIZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1007242337</Data></Cell>
+    <Cell><Data ss:Type="String">SANTIAGO ROJAS OROZCO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1007286682</Data></Cell>
+    <Cell><Data ss:Type="String">DANIEL MARTINEZ RESTREPO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1007286802</Data></Cell>
+    <Cell><Data ss:Type="String">ANDRÉS FELIPE OQUENDO USMA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1007340298</Data></Cell>
+    <Cell><Data ss:Type="String">SANTIAGO ELIAS RODRIGUEZ HAWASLY</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1007410504</Data></Cell>
+    <Cell><Data ss:Type="String">EIMER PEREA ARRIETA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1007942465</Data></Cell>
+    <Cell><Data ss:Type="String">DARWIN MONTIEL MORA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1128227439</Data></Cell>
+    <Cell><Data ss:Type="String">CHRISTIAN ALEJANDRO SALAZAR PICON</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">11903304</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN JOSE PEREZ JARAMILLO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">1193155819</Data></Cell>
+    <Cell><Data ss:Type="String">LICETH CAROLINA URREGO USUGA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">87.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">576891</Data></Cell>
+    <Cell><Data ss:Type="String">ELEAZAR ERNRIQUE HERNÁNDEZ AGREDA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">99051402240</Data></Cell>
+    <Cell><Data ss:Type="String">CRISTIAN FELIPE OROZCO CORREA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">99051903761</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN PABLO GONZALEZ CARDONA</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">99081104375</Data></Cell>
+    <Cell><Data ss:Type="String">VALENTINA TABARES GONZALEZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">99081210604</Data></Cell>
+    <Cell><Data ss:Type="String">BRAHIAN ARLEY GIRALDO MARIN</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">99102107809</Data></Cell>
+    <Cell><Data ss:Type="String">RONALD STIVEN CASTAÑO OSORIO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">99110104380</Data></Cell>
+    <Cell><Data ss:Type="String">GABRIEL MANCHOLA ARANGO</Data></Cell>
+    <Cell><Data ss:Type="String">1160249</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1000444026</Data></Cell>
+    <Cell><Data ss:Type="String">CRISTIAN LEITON ESCOBAR</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1000564918</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN ANDRÉS RÚA ZAPATA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1000752190</Data></Cell>
+    <Cell><Data ss:Type="String">NICOLAS CASTRILLON MUÑOZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1001131799</Data></Cell>
+    <Cell><Data ss:Type="String">VICTOR MAURICIO SANCHEZ SUAREZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">87.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1001233695</Data></Cell>
+    <Cell><Data ss:Type="String">JEAN PAUL CASTRO MOSQUERA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1001233885</Data></Cell>
+    <Cell><Data ss:Type="String">CRISTIAN CAMILO QUINTERO CUADROS</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1001525949</Data></Cell>
+    <Cell><Data ss:Type="String">DENILSON QUINTERO RAMIREZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">87.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1002129666</Data></Cell>
+    <Cell><Data ss:Type="String">CHRISTIAN ALEJANDRO ALZATE ARANDIA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1002155298</Data></Cell>
+    <Cell><Data ss:Type="String">WILLIAM ANDRÉS MARÍN ROSAS</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1007287097</Data></Cell>
+    <Cell><Data ss:Type="String">DAVID JEREZ QUIROZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">1037664816</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN PABLO GAVIRIA VASQUEZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">10403642</Data></Cell>
+    <Cell><Data ss:Type="String">SANTIAGO GUTIERREZ ARBOLEDA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-20</Data></Cell>
+    <Cell><Data ss:Type="String">98061550763</Data></Cell>
+    <Cell><Data ss:Type="String">JUAN JOSE RAFFAELI YEPES</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">98070154145</Data></Cell>
+    <Cell><Data ss:Type="String">JOSE ANDRES MORENO CORDOBA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">97.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">98121451689</Data></Cell>
+    <Cell><Data ss:Type="String">SANTIAGO AGUDELO BEDOYA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">99010304683</Data></Cell>
+    <Cell><Data ss:Type="String">CRISTIAN MORALES VASQUEZ</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2017-10-19</Data></Cell>
+    <Cell><Data ss:Type="String">99122304465</Data></Cell>
+    <Cell><Data ss:Type="String">CRISTIAN CAMILO MERCADO MESTRA</Data></Cell>
+    <Cell><Data ss:Type="String">1160253</Data></Cell>
+    <Cell><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>27</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R1C5" xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>
